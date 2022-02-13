@@ -75,7 +75,7 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 
 > Restart the terminal and type `command -v nvm` to confirm it is installed
 
-#### Node JS
+#### NodeJS
 
 ```bash
 nvm install node  #install latest version
