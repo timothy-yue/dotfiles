@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # ~/.macos — https://mths.be/macos
-# Modified by Timothy Yue
+# Modified by Timothy
 # Run without downloading:
 #   curl https://raw.githubusercontent.com/timothy-yue/dotfiles/HEAD/.macos | bash
 
