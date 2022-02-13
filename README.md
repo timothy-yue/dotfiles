@@ -30,7 +30,7 @@ Then, add the following to your .zshrc: source ~/.iterm2_shell_integration.zsh.
 brew install git
 ```
 
-#### Zsh
+#### ZSH
 
 ```bash
 brew install zsh
