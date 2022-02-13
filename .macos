@@ -69,7 +69,7 @@ todoist audacity docker another-redis-desktop-manager loopback kid3
 #sudo pmset -a standbydelay 86400
 
 # Disable the sound effects on boot
-#sudo nvram SystemAudioVolume=" "
+sudo nvram SystemAudioVolume=" "
 
 ###############################################################################
 # Trackpad, mouse, keyboard, Bluetooth accessories, and input                 #
